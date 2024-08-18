@@ -1,0 +1,57 @@
+[
+  {
+    "sender": "user",
+    "time": "2024-08-16T16:35:00.001",
+    "message": "Hello"
+  },
+  {
+    "sender": "user",
+    "time": "2024-08-16T16:35:00.002",
+    "message": "Hi"
+  },
+  {
+    "sender": "user",
+    "time": "2024-08-16T16:35:00.003",
+    "message": "How Are You"
+  },
+  {
+    "sender": "system",
+    "time": "2024-08-16T16:35:00.004",
+    "message": "This is a sample set of chats"
+  },
+  {
+    "sender": "system",
+    "time": "2024-08-16T16:35:00.005",
+    "message": "Some are from System"
+  },
+  {
+    "sender": "user",
+    "time": "2024-08-16T16:35:00.006",
+    "message": "Some are from the user"
+  },
+  {
+    "sender": "system",
+    "time": "2024-08-16T16:35:00.007",
+    "message": "It can vary"
+  },
+  {
+    "sender": "system",
+    "time": "2024-08-16T16:35:00.008",
+    "message": "Sometimes, the text may be so long that it cannot fit within a single line and has to take up space across multiple lines."
+  },
+  {
+    "sender": "system",
+    "time": "2024-08-16T16:35:00.009",
+    "message": "The number of texts may be so long that you have to scroll through the chat. Easy test to do"
+  },
+  {
+    "sender": "user",
+    "time": "2024-08-16T16:35:00.010",
+    "message": "And again, number of texts may be so long that you have to scroll through the chat. Easy test to do"
+  },
+  {
+    "sender": "user",
+    "time": "2024-08-16T16:35:00.011",
+    "message": "Be Patient! Scroll."
+  }
+]

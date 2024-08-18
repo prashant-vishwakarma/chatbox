@@ -1,0 +1,23 @@
+.chat-container {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: lightblue;
+    height: 97vh;
+    justify-content: space-between;
+}
+
+.title {
+    display: flex;
+    background-color: azure;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.scroll-view-container {
+    min-height: 400px;
+    height: 500px;
+    overflow-y: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}

@@ -1,0 +1,19 @@
+.message-slot {
+    display: flex;
+    padding: 5px 5px;
+}
+
+.message-slot.user {
+    flex-direction: row-reverse;
+}
+
+.message-container {
+    display: flex;
+    background-color: aquamarine;
+    width: fit-content;
+    max-width: 70%;
+    border-radius: 10px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
