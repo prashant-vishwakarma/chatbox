@@ -27,7 +27,7 @@ const ChatContainer = () => {
 
     return (
         <div className='chat-container'>
-            <div className='title'>ChatBox</div>
+            <div className='title'>ChatBox App</div>
             <div ref={scrollViewRef} className='scroll-view-container'>
                 {renderChats(chats)}
             </div>
